@@ -19,7 +19,7 @@ public class FindOccurence {
         findOccurence(str, indx+1, element);
     }
     public static void main(String[] args) {
-        String str = "abaa";
+        String str = "abag";
         findOccurence(str, 0, 'a');
     }
 }
